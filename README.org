@@ -1,0 +1,22 @@
+* Potential Memory
+Khinshan Khan, Jessica Wong, Joe Suzuki
+
+* Installing
+ WIP :shipit:
+
+* Contributing
+There are many ways in which you can participate in the project, for example:
+
+- See an open pull request? You can try reviewing it!
+- Find a pesky bug or perhaps a neat place to refactor?
+- Notice some weird or missing documentation? Fix or add it!
+
+Feel free to open a pull request, check our [[file:docs/CONTRIBUTING.org][contributing guide]] for more details.
+
+* Code of Conduct
+Although code of conducts usually aren't needed, people should think before
+working with others and likewise people should be able to work without stress.
+Follow our [[file:docs/CODE_OF_CONDUCT.md][code of conduct]] to help maintain a healthy community.
+
+* License
+This project uses an MIT license, which can be viewed [[file:LICENSE.org][here]].
